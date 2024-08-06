@@ -11,4 +11,5 @@ Fabnr = Fabrikationsnummer findes under i ikonet og Status
 - [ ] Tilrette til jordvarmeanlæg
 - [ ] Tilføre styring af anlæget fra Home assistant
 - [ ] Lave et eksempel på view til lovelace
-- [ ] Lave automation til energioptimering 
+- [ ] Lave automation til energioptimering
+- [ ] Lave en custom component til home assistant <https://github.com/math7935/DVI-SmartControl-Home-Assistant>
